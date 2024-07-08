@@ -1,3 +1,5 @@
+use basic_grep::run;
+
 fn main() {
-    println!("Hello, world!");
+    run();
 }
